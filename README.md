@@ -9,10 +9,6 @@
 
 A curated list of paper reading and related area. :-)
 
-[TOC]
-
-
-
 ## Contributing
 
 Please feel free to send me [pull requests](https://github.com/inFaaa/Awesome-text-caption/pulls) or email to add links.
