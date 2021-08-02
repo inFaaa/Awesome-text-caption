@@ -15,7 +15,7 @@ A curated list of paper reading and related area. :-)
 
 ## Contributing
 
-Please feel free to send me [pull requests](https://github.com/zhjohnchan/awesome-image-captioning/pulls) or email to add links.
+Please feel free to send me [pull requests](https://github.com/inFaaa/Awesome-text-caption/pulls) or email to add links.
 Markdown format:
 
 ```markdown
